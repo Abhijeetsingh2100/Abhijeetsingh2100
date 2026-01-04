@@ -1,5 +1,5 @@
 # 💫 About Me:
-application developer<br>ml projects<br>currently learning flutter and dsa in java<br>ask me about application development <br>
+Software Engineer in the making.<br><br>I build production-ready mobile applications using Kotlin and Flutter, and I’m rigorously strengthening my Java + DSA skills for high-impact SWE roles.<br><br>I care about problem-solving, clean architecture, and writing code that holds up beyond demos.
 
 
 ## 🌐 Socials:
@@ -8,9 +8,9 @@ application developer<br>ml projects<br>currently learning flutter and dsa in ja
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhijeet_Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Abhijeet_Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhijeet_Singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet_Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet_Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
